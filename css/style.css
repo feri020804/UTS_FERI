@@ -1,0 +1,39 @@
+body{
+    background-color: cyan;
+}
+
+h1{
+    text-align: center;
+    font-family: cursive;
+}
+
+.a{
+    margin: auto;
+    text-align: right;
+    font-size: 20px;
+}
+
+
+
+.link{
+    display: flex;
+    justify-content: right;
+    list-style: none;
+}
+
+.text a{
+    text-decoration: none;
+    color: black;
+}
+.paragraf{
+    font-family: cursive;
+    font-size: 18px;
+}
+
+form{
+    font-family: cursive;
+}
+    
+.submit{
+    background-color: green;
+}
